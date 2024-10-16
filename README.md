@@ -28,13 +28,4 @@ This project is a comprehensive password strength assessment tool written in Pyt
   - In addition to an overall score, the tool provides detailed suggestions for improving weak passwords, such as adding more variety in characters or increasing the length.
 
 
-
-### Example Output:
-```bash
-Enter your password: Password123!
-Strong password!
-Feedback:
-- Consider making your password longer for additional security.
-```
-
 This tool is designed to educate users on password best practices and provide them with actionable feedback to make their accounts more secure!
